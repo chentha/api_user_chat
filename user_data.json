@@ -13,7 +13,7 @@
     {
       "id": 2,
       "username": "Sophia Smith",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/401/non_2x/woman-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sophia_Smith_2024-02_%28cropped%29.jpg",
       "message": "Good morning!",
       "send_time": "09:30",
       "status": "offline"
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "username": "David Johnson",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/405/non_2x/man-in-suit-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_johnson_2018.jpg",
       "message": "See you soon.",
       "send_time": "11:15",
       "status": "online"
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "username": "Emily Davis",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/407/non_2x/woman-with-short-hair-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://dnan0fzjxntrj.cloudfront.net/Pictures/480xAny/3/5/2/27352_304680953_542598694329739_3631736286234571226_n_801078.jpg",
       "message": "Got it, thanks!",
       "send_time": "12:00",
       "status": "offline"
@@ -37,7 +37,7 @@
     {
       "id": 5,
       "username": "Michael Brown",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/406/non_2x/man-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://communication.northwestern.edu/images/faculty/brown-michael.jpeg",
       "message": "Let's catch up later.",
       "send_time": "13:20",
       "status": "online"
@@ -45,7 +45,7 @@
     {
       "id": 6,
       "username": "Olivia Wilson",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/408/non_2x/woman-with-long-hair-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://hbstrategies.us/wp-content/uploads/2023/12/OliviaWilson.jpg",
       "message": "I’m on it.",
       "send_time": "14:45",
       "status": "offline"
@@ -53,7 +53,7 @@
     {
       "id": 7,
       "username": "Liam Martinez",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/404/non_2x/man-avatar-with-glasses-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://gopoly.com/images/2020/4/15/liam_martinez_track_2017_18.jpg?width=300",
       "message": "Sounds good!",
       "send_time": "15:10",
       "status": "online"
@@ -61,7 +61,7 @@
     {
       "id": 8,
       "username": "Emma Garcia",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/409/non_2x/woman-with-hat-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://phantom-marca.unidadeditorial.es/ca4d39f60d28fd428d443ffcfde402f6/resize/828/f/jpg/assets/multimedia/imagenes/2024/06/22/17190718411826.jpg",
       "message": "Will do.",
       "send_time": "16:30",
       "status": "offline"
@@ -69,7 +69,7 @@
     {
       "id": 9,
       "username": "James Anderson",
-      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/410/non_2x/man-with-baseball-cap-avatar-character-isolated-icon-free-vector.jpg",
+      "avatar": "https://imgresizer.tntsports.io/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.tntsports.io/2016/01/12/1769150-37381127-2560-1440.jpg",
       "message": "Thanks a lot!",
       "send_time": "17:50",
       "status": "online"
