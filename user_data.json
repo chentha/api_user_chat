@@ -1,0 +1,78 @@
+{
+  "status": true,
+  "message": "Users fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "username": "Chentha DK",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/non_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Hello",
+      "send_time": "10:45",
+      "status": "online"
+    },
+    {
+      "id": 2,
+      "username": "Sophia Smith",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/401/non_2x/woman-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Good morning!",
+      "send_time": "09:30",
+      "status": "offline"
+    },
+    {
+      "id": 3,
+      "username": "David Johnson",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/405/non_2x/man-in-suit-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "See you soon.",
+      "send_time": "11:15",
+      "status": "online"
+    },
+    {
+      "id": 4,
+      "username": "Emily Davis",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/407/non_2x/woman-with-short-hair-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Got it, thanks!",
+      "send_time": "12:00",
+      "status": "offline"
+    },
+    {
+      "id": 5,
+      "username": "Michael Brown",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/406/non_2x/man-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Let's catch up later.",
+      "send_time": "13:20",
+      "status": "online"
+    },
+    {
+      "id": 6,
+      "username": "Olivia Wilson",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/408/non_2x/woman-with-long-hair-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "I’m on it.",
+      "send_time": "14:45",
+      "status": "offline"
+    },
+    {
+      "id": 7,
+      "username": "Liam Martinez",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/404/non_2x/man-avatar-with-glasses-character-isolated-icon-free-vector.jpg",
+      "message": "Sounds good!",
+      "send_time": "15:10",
+      "status": "online"
+    },
+    {
+      "id": 8,
+      "username": "Emma Garcia",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/409/non_2x/woman-with-hat-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Will do.",
+      "send_time": "16:30",
+      "status": "offline"
+    },
+    {
+      "id": 9,
+      "username": "James Anderson",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/410/non_2x/man-with-baseball-cap-avatar-character-isolated-icon-free-vector.jpg",
+      "message": "Thanks a lot!",
+      "send_time": "17:50",
+      "status": "online"
+    }
+  ]
+}
